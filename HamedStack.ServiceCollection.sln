@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34701.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HamedStack.ServiceCollection", "HamedStack.ServiceCollection\HamedStack.ServiceCollection.csproj", "{DEC290EF-1249-4EA9-B8EB-398BFE39B986}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DEC290EF-1249-4EA9-B8EB-398BFE39B986}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEC290EF-1249-4EA9-B8EB-398BFE39B986}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEC290EF-1249-4EA9-B8EB-398BFE39B986}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEC290EF-1249-4EA9-B8EB-398BFE39B986}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3528E41F-6597-415E-9BC7-F6E2257C1A99}
+	EndGlobalSection
+EndGlobal
